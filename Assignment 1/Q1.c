@@ -36,8 +36,7 @@ int main()
     {
         printf("\nMenu:\n");
         printf("1. Initialize Date\n");
-        demo1
-            printf("2. Print Date\n");
+        printf("2. Print Date\n");
         printf("3. Accept Date\n");
         printf("4. Exit\n");
         printf("Enter your choice: ");
